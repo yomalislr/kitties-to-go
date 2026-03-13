@@ -9,27 +9,27 @@ header {
     color: white;
     font-size: 200%;
     text-align: left;
-    height: 15rem;
+    height: 20rem;
     padding: 2rem;
     margin-bottom: 0rem;
 }
 
 .subtitle {
     background-color: #3d9bb7;
-    font-size: 100%;
+    font-size: 200%;
     font-style: italic;
     color: white;
 }
 
 nav {
-    font-size: 110%;
+    font-size: 150%;
     text-align: left;
     display: flex;
     align-items: center;
     font-weight: bold;
     background-color: #ebebeb;
     color: black;
-    height: 5rem;
+    height: 8rem;
     padding: 1rem;
 }
 
@@ -58,6 +58,7 @@ body {
     display: flex;
     flex-direction: row;
     padding: 2rem;
+    font-size: 150%;
 }
 
 .main-container {
@@ -67,12 +68,13 @@ body {
 section {
     display: flex;
     flex-direction: column;
-    width: 75rem;
+    width: 65rem;
 }
 
 aside {
-    width: 15rem;
+    width: 25rem;
     float: right;
+    font-size: 75%;
 }
 
 p {
