@@ -25,6 +25,10 @@ header {
     color: white;
 }
 
+.linear-gradient {
+    background: linear-gradient(to right, #03a3df, white);
+}
+
 nav {
     font-size: 150%;
     text-align: left;
